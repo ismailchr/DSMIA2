@@ -6,7 +6,8 @@
 
 <img src="[image1.jpg](https://github.com/ismailchr/DSMIA2/blob/main/ismail%20pic.PNG)" style="height:264px;margin-right:232px"/>
 
-https://github.com/ismailchr/DSMIA2/blob/main/ismail%20pic.PNG?raw=true
+<img width="322" height="314" alt="image" src="https://github.com/user-attachments/assets/8f971335-ab27-4e41-a7f0-cbc72a585c21" />
+
 ## École Nationale de Commerce et de Gestion (ENCG) - 
 
 ---
