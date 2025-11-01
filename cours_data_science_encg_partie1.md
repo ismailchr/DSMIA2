@@ -1,10 +1,10 @@
 # COURS DE SCIENCE DES DONNÉES
 
-# A. Larhlimi
+# CHRIHA ISMAIL
 
 
 
-<img src="image1.jpg" style="height:264px;margin-right:232px"/>
+<img src="[image1.jpg](https://github.com/ismailchr/DSMIA2/blob/main/ismail%20pic.PNG)" style="height:264px;margin-right:232px"/>
 
 
 ## École Nationale de Commerce et de Gestion (ENCG) - 
